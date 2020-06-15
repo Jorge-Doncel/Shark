@@ -52,4 +52,4 @@ Also, the mortality was similar during decades although in 2010's Australia suff
 
 From our results, the reason for this increase in cases in Australia during the 2010's could be studied.
 
-Another issue to deal with would be if the provoked cases before and after the movies dropped.
+Another point that could be discussed is the awareness of people towards shark attacks and their behaviour around them
