@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Jaws is a 1975 American thriller film directed by Steven Spielberg. In the film, a man-eating great white shark attacks beachgoers at a summer resort town, prompting police chief Martin Brody to hunt it. 
+[Jaws](https://en.wikipedia.org/wiki/Jaws_(film)) is a 1975 American thriller film directed by Steven Spielberg. In the film, a man-eating great white shark attacks beachgoers at a summer resort town, prompting police chief Martin Brody to hunt it. 
 
 Considered one of the greatest films ever made, became the first film to earn $100 million in US and it was the highest-grossing film until the release of Star Wars in 1977. In 2001, it was selected by the Library of Congress for preservation in the United States National Film Registry as "culturally, historically, or aesthetically significant".
 
@@ -16,7 +16,7 @@ Considered one of the greatest films ever made, became the first film to earn $1
 - [Resources](#resources)
 - [Data Processing](#data-processing)
 - [Conclusions](#Conclusions)
-- [Study Topics](study-topics)
+- [Study topics](study-topics)
 
 ## Hypothesis
 
@@ -42,3 +42,14 @@ Finally, the 15 years previous to and after the movie have been selected to chec
 
 ## Conclusions
 
+The data shows us that mortality decrease globally in the years after the movie. Meanwhile, in the United States it had no influence, while in Australia the number of people killed by shark attacks increased.
+
+In general, fatal cases decreased over the decades, so the influence of the film does not seem to be of great importance.
+
+Also, the mortality in the United States and Australia is similar during the decades, although in the decade 2010's Australia suffers an increase in deaths.
+
+## Study topics
+
+From our results, the reason for this increase in cases in Australia during the 2010's could be studied.
+
+Another issue to deal with would be if the provoked cases before and after the movies dropped.
