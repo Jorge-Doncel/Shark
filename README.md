@@ -46,7 +46,7 @@ The data shows us that mortality decrease globally in the years after the movie.
 
 In general, fatal cases decreased over the decades, so the influence of the film does not seem to be of great importance.
 
-Also, the mortality in the United States and Australia is similar during the decades, although in the decade 2010's Australia suffers an increase in deaths.
+Also, the mortality was similar during decades although in 2010's Australia suffered from an increasing amount of deaths.
 
 ## Study topics
 
