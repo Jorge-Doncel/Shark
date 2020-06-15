@@ -1,6 +1,6 @@
 # Sharks : Mortality after movie "Shark"
 
-![Shark](Jaws-movie-poster.jpg)
+![Shark](https://github.com/Jorge-Doncel/Shark/blob/master/input/Jaws-movie-poster.jpg)
 
 ## Introduction
 
