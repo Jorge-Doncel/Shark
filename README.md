@@ -29,7 +29,7 @@ Due to the success of the movie Shark around the world, people began to fear mor
 
 ## Resources 
 
-You can find the data with the globlal shark attack incidents here.
+You can find the data with the globlal shark attack incidents [here](https://www.kaggle.com/teajay/global-shark-attacks/version/1).
 
 ## Data Processing
 
